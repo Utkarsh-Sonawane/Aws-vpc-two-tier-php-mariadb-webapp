@@ -9,7 +9,9 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 - NAT Gateway for outbound internet access from private subnet
 - Route Tables for traffic control
   
-Architecture Diagram -- architecture diagram.png
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
   
 ## AWS Services Used
 - Amazon VPC
