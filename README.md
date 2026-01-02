@@ -11,7 +11,7 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 
   ## Architecture Diagram
 
-[![Architecture Diagram](architecture-20diagram.png)](architecture-20diagram.png)
+[![Architecture Diagram](architecture-diagram.png)](architecture-diagram.png)
 
 ## AWS Services Used
 - Amazon VPC
