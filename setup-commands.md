@@ -2,7 +2,7 @@
 
 ---
 
-## EC2-1: Private Database EC2 (MariaDB Server)
+EC2-1: Private Database EC2 (MariaDB Server)
 ```bash
 sudo yum update -y
 sudo dnf install mariadb105-server -y
@@ -13,7 +13,7 @@ sudo mariadb
 
 
 ## EC2-2: Web / Application EC2 (Apache + PHP)
-```bash
+
 sudo yum update -y
 sudo yum install git httpd php php-mysqli mariadb105 -y
 sudo systemctl start httpd
