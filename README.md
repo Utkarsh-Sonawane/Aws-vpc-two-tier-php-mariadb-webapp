@@ -43,3 +43,21 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 - Deploying and securing databases in private networks
 - Configuring Internet and NAT Gateways
 - Implementing AWS networking best practices
+
+## 📸 Project Screenshots
+
+### VPC & Networking Setup
+![Custom VPC](screenshots/custom-vpc.png)
+![Public and Private Subnets](screenshots/public-private-subnets.png)
+![Route Tables Configuration](screenshots/route-tables.png)
+![VPC Resource Map](screenshots/vpc-resource-map.png)
+
+### EC2 Instances
+![EC2 Web Server (Public Subnet)](screenshots/ec2-web-instance.png)
+
+### Web Application
+![Web Application Registration Page](screenshots/web-app-registration.png)
+
+### Database Validation
+![Database Entries](screenshots/database-entries.png)
+![Database Access from EC2](screenshots/database-entries-from-ec2.png)
