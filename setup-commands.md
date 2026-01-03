@@ -17,7 +17,7 @@ sudo systemctl start httpd
 sudo systemctl enable httpd
 
 cd /var/www/html
-git clone https://github.com/Utkarshs2905/simple-website.git
+git clone <github-repository-link>
 
 sudo systemctl restart httpd
 
