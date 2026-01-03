@@ -2,9 +2,8 @@
 
 ---
 
-EC2-1: Private Database EC2 (MariaDB Server)
+## EC2-1: Private Database EC2 (MariaDB Server)
 
-```bash
 sudo yum update -y
 sudo dnf install mariadb105-server -y
 sudo systemctl start mariadb
