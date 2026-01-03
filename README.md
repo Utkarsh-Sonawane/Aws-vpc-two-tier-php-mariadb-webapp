@@ -64,7 +64,7 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 
 ## 📜 EC2 Setup Commands
 
-This project includes documented, reproducible setup commands for both web and database EC2 instances.
+Detailed setup commands for EC2 instances are available here:  
+[View EC2 Setup Commands](commands.md)
 
-👉 [EC2 Setup Commands (commands.md)](commands.md)
 
