@@ -61,3 +61,10 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 ### Database Validation
 ![Database Entries](screenshots/database-entries.png)
 ![Database Access from EC2](screenshots/database-entries-from-ec2.png)
+
+## 📜 EC2 Setup Commands
+
+This project includes documented, reproducible setup commands for both web and database EC2 instances.
+
+👉 [EC2 Setup Commands (commands.md)](commands.md)
+
