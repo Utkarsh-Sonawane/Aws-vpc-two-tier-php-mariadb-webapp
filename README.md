@@ -40,9 +40,12 @@ A secure AWS two-tier PHP stack utilizing a custom VPC, public/private subnet is
 
 ## Key Learnings
 - Designing VPCs with public and private subnets
-- Deploying and securing databases in private networks
-- Configuring Internet and NAT Gateways
-- Implementing AWS networking best practices
+- Think about network design before launching resources
+- Public vs private networking and allocate IP ranges logically
+- Internet Gateway vs NAT Gateway
+- This project helped me understand that CIDR planning
+- Security group–based access control
+- Real-world two-tier architecture
 
 ## 📸 Project Screenshots
 
